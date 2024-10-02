@@ -2,7 +2,12 @@
 
 <p align="center">
     <a href="kelly011418@gmail.com"
-        ><img src="https://img.shields.io/badge/Email-kelly011418%40gmail.com-blue?logo=gmail&logoColor=white" alt="Email Address"
+        ><img src="<p align="center">
+    <a href="mailto:kelly011418@gmail.com">
+        <img src="https://raw.githubusercontent.com/ChingChingKao/ChingChingKao/main/images/email-icon.png" alt="Email Address" width="40" height="40" />
+    </a>
+</p>
+" alt="Email Address"
     /></a>
 </p>
 
