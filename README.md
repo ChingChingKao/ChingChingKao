@@ -6,21 +6,13 @@
     /></a>
     </a>
 </p>
-" alt="Email Address"
-    /></a>
-</p>
 
-<!--
-**ChingChingKao/ChingChingKao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME
+🏫 I'm currently studying Computer Science and Engineering at National Chung Hsing University.
 
-Here are some ideas to get you started:
+💕 I love learning new things and enjoy exploring different hobbies and activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 I love playing musical instruments such as the piano, guitar, and violin.
+
+## SKILL TREE
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,flask,html,css,js,php,mysql,md)](https://skillicons.dev)
