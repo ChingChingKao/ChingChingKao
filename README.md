@@ -27,4 +27,4 @@
 * [Heart_Failure_Prediction](https://github.com/ChingChingKao/Heart_Failure_Prediction) ：資料探勘概論期末Project
 
 ## GITHUB USAGE
-<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=ChingChingKao&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChingChingKao&theme=vue)
