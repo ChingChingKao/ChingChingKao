@@ -25,3 +25,6 @@
 * [Cryptology_QR-code](https://github.com/ChingChingKao/Cryptology_QR-code) ：密碼學期末專題-結合文字隱藏與 QR 碼技術以實現安全信息分享
 * [Light Novel Database Management System](https://github.com/ChingChingKao/Database_project) ：資料庫期末專題-輕小說檢索系統
 * [Heart_Failure_Prediction](https://github.com/ChingChingKao/Heart_Failure_Prediction) ：資料探勘概論期末Project
+
+## GITHUB USAGE
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[ChingChingKao]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
